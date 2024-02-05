@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 
 Exercise 02 calculate the average of the tests of some students and give the answer if they pass or not in the test.
 
-- [Access the finished project, online](https://aoba43.github.io/exercise_2_stg_4/)
+- [Access the finished project, online](https://smoothemerson.github.io/exercise_2_stg_4/)
 
 - Project given by Rocketseat to practice about the introduction of Javascript
 
