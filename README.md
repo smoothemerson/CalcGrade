@@ -1,4 +1,4 @@
-<h1 align="center"> Exercise 02 </h1>
+<h1 align="center"> CalcGrade </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Exercise2" src="./github/preview.png" width="100%">
+  <img alt="CalcGrade" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
