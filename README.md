@@ -20,7 +20,7 @@
 
 This project was developed with the following technologies:
 
-- HTML and CSS
+- HTML
 - JavaScript
 - Git and GitHub
 
