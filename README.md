@@ -2,12 +2,7 @@
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <a href="#-project">Project</a>
 </p>
 
 <br>
@@ -30,8 +25,4 @@ Exercise 02 calculate the average of the tests of some students and give the ans
 
 - [Access the finished project, online](https://smoothemerson.github.io/CalcGrade/)
 
-- Project given by Rocketseat to practice about the introduction of Javascript
-
-## :memo: License
-
-This project is under the MIT license.
+- Project given by Rocketseat in Stage 04 of the Explorer Course
